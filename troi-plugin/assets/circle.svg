@@ -1,0 +1,17 @@
+<svg version="1.1" id="graphycs" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+                        xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1140px" height="800px"
+                        viewBox="0 0 1140 800" enable-background="new 0 0 1140 800" xml:space="preserve">
+                        <g id="group">
+                        
+                        
+                        <path id="circlepath" fill="none" stroke="#51BBE3" stroke-width="10" stroke-miterlimit="10" d="M249.667,394.111
+                    c103.277,0,187,83.723,187,187s-83.723,187-187,187s-187-83.723-187-187S146.39,394.111,249.667,394.111z"/> <!–this is the same circle, but converted to path–>
+                        <g>                   
+                        <clipPath id="SVGID_2_">
+                        <use xlink:href="#SVGID_1_"  overflow="visible"/>
+                        </clipPath>
+                        <path clip-path="url(#SVGID_2_)" id="linepath" fill="none" stroke="#51BBE3" stroke-width="10" stroke-miterlimit="10" d="M249.667,1v391.111" />
+                        </g>
+                        </g>
+                    </svg>
+                    
